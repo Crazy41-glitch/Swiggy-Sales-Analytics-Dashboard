@@ -169,8 +169,8 @@ Aspiring **Data Analyst** passionate about transforming raw data into actionable
 
 ### Connect with me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile URL)*
-- 📧 Email: *(Add your professional email)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/harshith-narayan-n-79196b1b7/)
+- 📧 Email: harshith0041@gmail.com
 
 ---
 
