@@ -13,9 +13,7 @@
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-<img src="Images/dashboard-preview.png" width="100%">
-</p>
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
