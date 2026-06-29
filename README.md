@@ -14,7 +14,7 @@
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
-![Dashboard Preview](dashboard-preview-2.png)
+
 ---
 
 # 📌 Project Overview
